@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OP_EX1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\ressources\includes\learnopengl\shader.h(68): warning C4101: 'infoLog': unreferenced local variable
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\ressources\includes\learnopengl\shader.h(67): warning C4101: 'success': unreferenced local variable
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\ressources\includes\assimp\metadata.h(152): warning C4800: 'void *': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\ressources\includes\learnopengl\mesh.h(95): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(349): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(350): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(415): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(642): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(643): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(647): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(648): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(650): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(651): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(689): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(727): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(754): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(756): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(758): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\alpha\documents\visual studio 2015\projects\opengl_series\opengl_series\main.cpp(915): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  imgui_impl_opengl3.cpp
+  imgui_impl_glfw.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL_Series.vcxproj -> C:\Users\ALPHA\Documents\Visual Studio 2015\Projects\OpenGL_Series\x64\Debug\PBR.exe
+  OpenGL_Series.vcxproj -> C:\Users\ALPHA\Documents\Visual Studio 2015\Projects\OpenGL_Series\x64\Debug\PBR.pdb (Full PDB)
